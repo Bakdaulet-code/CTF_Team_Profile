@@ -1,0 +1,13 @@
+html, body {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+body {
+  background-color: black;
+}
+
+.ant-menu {
+  background-color: transparent;
+  color: white;
+}
